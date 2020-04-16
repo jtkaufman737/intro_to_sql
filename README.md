@@ -4,7 +4,7 @@ Intro to SQL workshop for Code The Dream, by Joy Kaufman
 
 ## About
 
-For this workshop we are going to use a mix of following slides, and writing commands into [SQL Fiddle](http://sqlfiddle.com/). If you get behind, the commands are going to be numbered so that you can find your spot in intro.sql to pick back up. 
+For this workshop we are going to use a mix of following slides, and writing commands into [SQL Fiddle](http://sqlfiddle.com/). If you get behind, the commands are going to be numbered so that you can find your spot in intro.sql to pick back up. A link to the slides if you would like to follow along is here: https://1drv.ms/p/s!AmNCns3vWdybhkWZJiHLEjX2F3cZ?e=PK6DQ2
 
 ## More Learning 
 
